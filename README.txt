@@ -1,1 +1,0 @@
-If changes are made to remoteDBeaver.ps1 file to compile a new exe run compileEXE.ps1
